@@ -1,2 +1,2 @@
 # build_your_own_lisp
-Learning through building a small LISP-ish language
+Learning bits of CompSci through building a small LISP-ish language
